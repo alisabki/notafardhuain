@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin Panel - Pengurusan Nota</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/admin.css">
+</head>
+<body>
+  <div class="admin-container">
+    <header class="admin-header">
+      <h2>Panel Admin Nota</h2>
+      <a href="index.html" class="btn-link">← Kembali ke Reader</a>
+    </header>
+
+    <!-- Bahagian Konfigurasi GitHub Token -->
+    <section id="auth-section" class="card">
+      <h3>Konfigurasi Sambungan GitHub</h3>
+      <p class="subtitle">Token disimpan sementara dalam session browser anda sahaja.</p>
+      <div class="form-group">
+        <label>GitHub Username:</label>
+        <input type="text" id="gh-owner" placeholder="cth: username-anda">
+      </div>
+      <div class="form-group">
+        <label>Nama Repo:</label>
+        <input type="text" id="gh-repo" placeholder="cth: my-notes-app">
+      </div>
+      <div class="form-group">
+        <label>Personal Access Token (PAT):</label>
+        <input type="password" id="gh-token" placeholder="ghp_xxxxxxxxxxxx">
+      </div>
+      <button id="btn-save-config" class="btn-primary">Sahkan & Muat Data</button>
+    </section>
+
+    <!-- Editor Nota -->
+    <section id="editor-section" class="card hidden">
+      <h3 id="form-title">Tambah Nota Baharu</h3>
+      <input type="hidden" id="edit-note-id">
+
+      <div class="form-group">
+        <label>Tajuk Nota:</label>
+        <input type="text" id="note-title" required>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group">
+          <label>Kategori:</label>
+          <input type="text" id="note-category" placeholder="cth: Teknikal, Peribadi">
+        </div>
+        <div class="form-group checkbox-group">
+          <label><input type="checkbox" id="note-pinned"> Semat di Atas (Pin)</label>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label>Kandungan Nota:</label>
+        <textarea id="note-content" rows="8" placeholder="Tulis isi nota di sini..."></textarea>
+      </div>
+
+      <div class="actions">
+        <button id="btn-save-note" class="btn-primary">Simpan ke GitHub</button>
+        <button id="btn-cancel" class="btn-secondary hidden">Batal Suntingan</button>
+      </div>
+    </section>
+
+    <!-- Senarai Nota Sedia Ada -->
+    <section id="list-section" class="card hidden">
+      <h3>Koleksi Nota Semasa</h3>
+      <div id="admin-notes-list"></div>
+    </section>
+  </div>
+
+  <script type="module" src="assets/js/admin.js"></script>
+</body>
+</html>

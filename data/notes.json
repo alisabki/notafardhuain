@@ -1,0 +1,10 @@
+[
+  {
+    "id": "nota-01",
+    "title": "Nota Ujian Pertama",
+    "category": "Umum",
+    "date": "2026-10-29",
+    "pinned": true,
+    "content": "Ini adalah nota ujian permulaan untuk menyemak sistem backend GitHub Pages."
+  }
+]
