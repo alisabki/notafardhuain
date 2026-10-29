@@ -1,10 +1,66 @@
 [
   {
     "id": "nota-01",
-    "title": "Nota Ujian Pertama",
-    "category": "Umum",
+    "title": "Asas Bersuci, Bahagian Air & Ukuran Dua Kolah",
+    "category": "Fiqh Ibadah",
     "date": "2026-10-29",
     "pinned": true,
-    "content": "Ini adalah nota ujian permulaan untuk menyemak sistem backend GitHub Pages."
+    "content": "Pengertian Bersuci: Suci atau bersih daripada sesuatu yang kotor dari segi bahasa, manakala dari segi syarak ialah mengangkat hadas atau menghilangkan najis.\n\nBahagian Air:\n1. Air Mutlak: Suci dan menyucikan.\n2. Air Suci Tidak Menyucikan: Air musta'amal (bekas basuhan fardu pertama wuduk) dan air mutaghayyir (berubah warna, bau, atau rasa kerana bercampur benda suci seperti gula atau susu).\n3. Air Mutanajis: Air yang terkena najis (sedikit kurang dua kolah atau berubah sifat).\n4. Air Musyammas: Air terjemur dalam bekas logam yang makruh digunakan pada badan.\n\nUkuran Air Dua Kolah:\n- Bekas empat persegi: 1¼ hasta dalam × 1 hasta panjang.\n- Bekas bulat: 2 hasta tinggi × 1 hasta lebar."
+  },
+  {
+    "id": "nota-02",
+    "title": "Bahagian Najis & Cara Menyucikannya",
+    "category": "Fiqh Ibadah",
+    "date": "2026-10-29",
+    "pinned": false,
+    "content": "1. Najis Mughalazah (Berat): Anjing, babi, dan keturunannya. Cara basuh: 7 kali air mutlak, salah satu daripadanya bercampur tanah.\n2. Najis Mukhafafah (Ringan): Air kencing kanak-kanak lelaki berumur bawah 2 tahun yang hanya minum susu ibu. Cara basuh: Renjis air hingga basah dan lap.\n3. Najis Mutawassitah (Pertengahan): Darah, nanah, muntah, arak, bangkai, dll. Cara basuh: Basuh hingga hilang warna, bau, dan rasa."
+  },
+  {
+    "id": "nota-03",
+    "title": "Rukun Wuduk & Perkara Membatalkan Wuduk",
+    "category": "Fiqh Ibadah",
+    "date": "2026-10-29",
+    "pinned": false,
+    "content": "6 Rukun Wuduk:\n1. Niat ketika mula membasuh muka (\"Sahaja aku mengangkat hadas kecil kerana Allah Taala\").\n2. Membasuh muka.\n3. Membasuh kedua-dua tangan hingga ke siku.\n4. Menyapu sebahagian kepala/rambut.\n5. Membasuh kedua-dua kaki hingga buku lali.\n6. Tertib (mengikut urutan).\n\nPerkara Membatalkan Wuduk:\n1. Keluar sesuatu dari qubul atau dubur.\n2. Hilang akal (tidur tidak tetap punggung, pengsan, mabuk).\n3. Sentuh kulit lelaki dan perempuan ajnabi tanpa berlapik.\n4. Sentuh kemaluan atau halaqah dubur dengan perut tapak tangan tanpa berlapik.\n5. Murtad."
+  },
+  {
+    "id": "nota-04",
+    "title": "13 Rukun Solat & Pembahagiannya",
+    "category": "Solat",
+    "date": "2026-10-29",
+    "pinned": true,
+    "content": "1. Berdiri tegak (bagi yang mampu).\n2. Niat dalam hati ketika takbiratulihram.\n3. Takbiratulihram (Allahu Akbar).\n4. Membaca Surah Al-Fatihah.\n5. Rukuk serta tamakninah.\n6. Iktidal serta tamakninah.\n7. Sujud dua kali serta tamakninah (7 anggota sujud).\n8. Duduk antara dua sujud serta tamakninah.\n9. Duduk tahiyyat akhir.\n10. Membaca tahiyyat akhir.\n11. Membaca selawat ke atas Nabi SAW.\n12. Salam pertama (Assalamu'alaikum).\n13. Tertib.\n\nNota Tambahan: Terbahagi kepada 2 Rukun Qalbi (Niat, Tertib), 6 Rukun Fi'li (Berdiri, Rukuk, Iktidal, Sujud, Duduk antara 2 sujud, Tahiyyat akhir), dan 5 Rukun Qauli (Takbiratulihram, Fatihah, Tahiyyat akhir, Selawat, Salam pertama)."
+  },
+  {
+    "id": "nota-05",
+    "title": "Makmum Muafiq dan Masbuk",
+    "category": "Solat",
+    "date": "2026-10-29",
+    "pinned": false,
+    "content": "- Makmum Muafiq: Makmum yang sempat bersama-sama imam membaca Al-Fatihah pada kadar yang cukup sama ada pada rakaat pertama atau rakaat lain.\n- Makmum Masbuk: Makmum yang tidak sempat bersama imam pada kadar bacaan Al-Fatihah yang mencukupi (tertinggal bacaan Fatihah imam). Jika sempat rukuk bersama imam dengan tamakninah, maka dikira mendapat rakaat tersebut."
+  },
+  {
+    "id": "nota-06",
+    "title": "Solat Jamak dan Qasar (Musafir)",
+    "category": "Solat",
+    "date": "2026-10-29",
+    "pinned": false,
+    "content": "- Syarat Qasar: Musafir bukan untuk maksiat, jarak tidak kurang dari 2 marhalah (60 batu / 90 km), solat 4 rakaat (Zuhur, Asar, Isyak) yang dilakukan secara tunai.\n- Jamak Taqdim: Menghimpunkan solat Zuhur-Asar atau Maghrib-Isyak pada waktu yang pertama. Syaratnya: Tertib (mula waktu pertama), niat jamak pada solat pertama, dan muwalat (berturut-turut tanpa selang masa lama).\n- Jamak Takhir: Menghimpunkan solat pada waktu yang kedua dengan niat jamak takhir dibuat dalam waktu yang pertama."
+  },
+  {
+    "id": "nota-07",
+    "title": "Asas 50 Ikatan Akidah (Sifat 20)",
+    "category": "Akidah",
+    "date": "2026-10-29",
+    "pinned": true,
+    "content": "Akidah Islam merangkumi 50 sifat utama:\n- 20 Sifat Wajib bagi Allah: Wujud, Qidam, Baqa', Mukhalafatuhu lilhawadis, Qiamuhu binafsihi, Wahdaniah, Qudrah, Iradah, Ilm, Hayah, Sama', Basor, Kalam, Kaunuhu Qaadiran, Kaunuhu Muriidan, Kaunuhu A'liman, Kaunuhu Hayyan, Kaunuhu Samii'an, Kaunuhu Basiiran, Kaunuhu Mutakallimun.\n- 20 Sifat Mustahil bagi Allah (Lawan kepada sifat wajib di atas).\n- 1 Sifat Harus bagi Allah: Mengadakan atau meniadakan sesuatu yang harus wujud (mumkin).\n- 4 Sifat Wajib bagi Rasul: Sidiq, Amanah, Tabligh, Fatonah.\n- 4 Sifat Mustahil bagi Rasul: Kizib, Khianat, Kitman, Baladah.\n- 1 Sifat Harus bagi Rasul: Bersifat seperti manusia biasa tanpa mengurangkan martabat kenabian."
+  },
+  {
+    "id": "nota-08",
+    "title": "Empat Kewajipan Terhadap Jenazah & Ringkasan Solat Jenazah",
+    "category": "Pengurusan Jenazah",
+    "date": "2026-10-29",
+    "pinned": false,
+    "content": "Fardu Kifayah Terhadap Jenazah:\n1. Memandikan\n2. Mengkafankan\n3. Menyembahyangkan\n4. Mengebumikan\n\nRukun Solat Jenazah (4 Takbir):\n- Takbir Pertama: Niat dan membaca Surah Al-Fatihah.\n- Takbir Kedua: Membaca selawat ke atas Nabi SAW (Allahumma salli 'ala Muhammad...).\n- Takbir Ketiga: Membaca doa khusus untuk jenazah (Allahummaghfir lahu warhamhu...).\n- Takbir Keempat: Membaca doa selepas takbir keempat dan memberi salam."
   }
 ]
